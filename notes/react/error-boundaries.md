@@ -1,0 +1,22 @@
+# error boundaries
+
+## Date: 2023-01-24
+
+### Overview
+Notes and learnings about error boundaries in the context of react development.
+
+### Key Points
+- Understanding core concepts of error boundaries
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for error boundaries
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
