@@ -1,0 +1,22 @@
+# testing rtl
+
+## Date: 2023-01-26
+
+### Overview
+Notes and learnings about testing rtl in the context of react development.
+
+### Key Points
+- Understanding core concepts of testing rtl
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for testing rtl
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
