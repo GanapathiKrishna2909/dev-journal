@@ -20,3 +20,7 @@ Notes and learnings about notification service in the context of system-design d
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-02-16)
+- Additional insights and refinements
+- Practical examples from project work
