@@ -20,3 +20,7 @@ Notes and learnings about service discovery in the context of microservices deve
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-02-17)
+- Additional insights and refinements
+- Practical examples from project work
