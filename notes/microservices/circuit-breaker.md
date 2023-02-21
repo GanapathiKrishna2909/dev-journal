@@ -1,0 +1,22 @@
+# circuit breaker
+
+## Date: 2023-02-21
+
+### Overview
+Notes and learnings about circuit breaker in the context of microservices development.
+
+### Key Points
+- Understanding core concepts of circuit breaker
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for circuit breaker
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
