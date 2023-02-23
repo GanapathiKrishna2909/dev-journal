@@ -1,0 +1,22 @@
+# context api
+
+## Date: 2023-02-23
+
+### Overview
+Notes and learnings about context api in the context of react development.
+
+### Key Points
+- Understanding core concepts of context api
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for context api
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
