@@ -20,3 +20,7 @@ Notes and learnings about health checks in the context of microservices developm
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-02-27)
+- Additional insights and refinements
+- Practical examples from project work
