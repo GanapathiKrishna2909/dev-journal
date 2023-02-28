@@ -20,3 +20,7 @@ Notes and learnings about canary release in the context of microservices develop
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-02-28)
+- Additional insights and refinements
+- Practical examples from project work
