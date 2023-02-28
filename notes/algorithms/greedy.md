@@ -1,0 +1,22 @@
+# greedy
+
+## Date: 2023-02-28
+
+### Overview
+Notes and learnings about greedy in the context of algorithms development.
+
+### Key Points
+- Understanding core concepts of greedy
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for greedy
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
