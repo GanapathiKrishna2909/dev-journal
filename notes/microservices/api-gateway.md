@@ -1,0 +1,22 @@
+# api gateway
+
+## Date: 2023-03-01
+
+### Overview
+Notes and learnings about api gateway in the context of microservices development.
+
+### Key Points
+- Understanding core concepts of api gateway
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for api gateway
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
