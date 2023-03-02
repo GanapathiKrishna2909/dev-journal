@@ -20,3 +20,7 @@ Notes and learnings about matrix operations in the context of algorithms develop
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-03-02)
+- Additional insights and refinements
+- Practical examples from project work
