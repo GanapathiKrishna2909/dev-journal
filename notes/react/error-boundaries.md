@@ -20,3 +20,7 @@ Notes and learnings about error boundaries in the context of react development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-03-04)
+- Additional insights and refinements
+- Practical examples from project work
