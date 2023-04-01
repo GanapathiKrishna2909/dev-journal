@@ -1,0 +1,22 @@
+# config server
+
+## Date: 2023-04-01
+
+### Overview
+Notes and learnings about config server in the context of microservices development.
+
+### Key Points
+- Understanding core concepts of config server
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for config server
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
