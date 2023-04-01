@@ -20,3 +20,7 @@ Notes and learnings about blue green deploy in the context of microservices deve
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-04-01)
+- Additional insights and refinements
+- Practical examples from project work
