@@ -24,3 +24,7 @@ Notes and learnings about pagination in the context of spring-boot development.
 ### Update (2023-02-24)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-04-06)
+- Additional insights and refinements
+- Practical examples from project work
