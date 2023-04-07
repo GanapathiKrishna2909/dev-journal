@@ -20,3 +20,7 @@ Notes and learnings about distributed tracing in the context of microservices de
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-04-07)
+- Additional insights and refinements
+- Practical examples from project work
