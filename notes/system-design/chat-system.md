@@ -20,3 +20,7 @@ Notes and learnings about chat system in the context of system-design developmen
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-04-11)
+- Additional insights and refinements
+- Practical examples from project work
