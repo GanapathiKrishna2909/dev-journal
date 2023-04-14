@@ -20,3 +20,7 @@ Notes and learnings about sqs messaging in the context of cloud development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-04-14)
+- Additional insights and refinements
+- Practical examples from project work
