@@ -20,3 +20,7 @@ Notes and learnings about payment system in the context of system-design develop
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-04-27)
+- Additional insights and refinements
+- Practical examples from project work
