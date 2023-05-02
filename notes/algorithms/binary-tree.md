@@ -1,0 +1,22 @@
+# binary tree
+
+## Date: 2023-05-02
+
+### Overview
+Notes and learnings about binary tree in the context of algorithms development.
+
+### Key Points
+- Understanding core concepts of binary tree
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for binary tree
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
