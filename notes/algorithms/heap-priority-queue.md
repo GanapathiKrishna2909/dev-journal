@@ -20,3 +20,7 @@ Notes and learnings about heap priority queue in the context of algorithms devel
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-05-03)
+- Additional insights and refinements
+- Practical examples from project work
