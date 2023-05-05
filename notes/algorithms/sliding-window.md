@@ -20,3 +20,7 @@ Notes and learnings about sliding window in the context of algorithms developmen
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-05-05)
+- Additional insights and refinements
+- Practical examples from project work
