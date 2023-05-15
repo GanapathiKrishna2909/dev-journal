@@ -20,3 +20,7 @@ Notes and learnings about circuit breaker in the context of microservices develo
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-05-15)
+- Additional insights and refinements
+- Practical examples from project work
