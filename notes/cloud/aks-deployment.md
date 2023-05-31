@@ -20,3 +20,7 @@ Notes and learnings about aks deployment in the context of cloud development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-05-31)
+- Additional insights and refinements
+- Practical examples from project work
