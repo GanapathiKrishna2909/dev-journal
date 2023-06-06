@@ -20,3 +20,7 @@ Notes and learnings about infrastructure as code in the context of devops develo
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-06-06)
+- Additional insights and refinements
+- Practical examples from project work
