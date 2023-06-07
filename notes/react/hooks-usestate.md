@@ -24,3 +24,7 @@ Notes and learnings about hooks usestate in the context of react development.
 ### Update (2023-05-24)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-06-07)
+- Additional insights and refinements
+- Practical examples from project work
