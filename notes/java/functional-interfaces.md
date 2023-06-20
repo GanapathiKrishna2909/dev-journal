@@ -20,3 +20,7 @@ Notes and learnings about functional interfaces in the context of java developme
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-06-20)
+- Additional insights and refinements
+- Practical examples from project work
