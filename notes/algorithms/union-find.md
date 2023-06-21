@@ -20,3 +20,7 @@ Notes and learnings about union find in the context of algorithms development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-06-21)
+- Additional insights and refinements
+- Practical examples from project work
