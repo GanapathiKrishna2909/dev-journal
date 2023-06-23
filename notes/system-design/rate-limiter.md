@@ -20,3 +20,7 @@ Notes and learnings about rate limiter in the context of system-design developme
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-06-23)
+- Additional insights and refinements
+- Practical examples from project work
