@@ -20,3 +20,7 @@ Notes and learnings about linked list in the context of algorithms development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-06-30)
+- Additional insights and refinements
+- Practical examples from project work
