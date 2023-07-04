@@ -20,3 +20,7 @@ Notes and learnings about cache design in the context of system-design developme
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-07-04)
+- Additional insights and refinements
+- Practical examples from project work
