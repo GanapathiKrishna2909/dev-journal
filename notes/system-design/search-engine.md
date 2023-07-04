@@ -20,3 +20,7 @@ Notes and learnings about search engine in the context of system-design developm
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-07-04)
+- Additional insights and refinements
+- Practical examples from project work
