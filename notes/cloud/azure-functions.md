@@ -20,3 +20,7 @@ Notes and learnings about azure functions in the context of cloud development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-07-05)
+- Additional insights and refinements
+- Practical examples from project work
