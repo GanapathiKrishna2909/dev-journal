@@ -20,3 +20,7 @@ Notes and learnings about memoization in the context of react development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-07-10)
+- Additional insights and refinements
+- Practical examples from project work
