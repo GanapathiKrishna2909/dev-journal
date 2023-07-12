@@ -1,0 +1,22 @@
+# lambda functions
+
+## Date: 2023-07-12
+
+### Overview
+Notes and learnings about lambda functions in the context of cloud development.
+
+### Key Points
+- Understanding core concepts of lambda functions
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for lambda functions
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
