@@ -1,0 +1,22 @@
+# portals
+
+## Date: 2023-07-13
+
+### Overview
+Notes and learnings about portals in the context of react development.
+
+### Key Points
+- Understanding core concepts of portals
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for portals
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
