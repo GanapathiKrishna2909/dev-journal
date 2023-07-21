@@ -20,3 +20,7 @@ Notes and learnings about leader election in the context of system-design develo
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-07-21)
+- Additional insights and refinements
+- Practical examples from project work
