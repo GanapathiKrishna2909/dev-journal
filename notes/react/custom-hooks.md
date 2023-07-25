@@ -20,3 +20,7 @@ Notes and learnings about custom hooks in the context of react development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-07-25)
+- Additional insights and refinements
+- Practical examples from project work
