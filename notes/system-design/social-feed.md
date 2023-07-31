@@ -20,3 +20,7 @@ Notes and learnings about social feed in the context of system-design developmen
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-07-31)
+- Additional insights and refinements
+- Practical examples from project work
