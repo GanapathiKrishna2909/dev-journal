@@ -20,3 +20,7 @@ Notes and learnings about events in the context of spring-boot development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-08-08)
+- Additional insights and refinements
+- Practical examples from project work
