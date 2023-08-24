@@ -20,3 +20,7 @@ Notes and learnings about blue green setup in the context of devops development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-08-24)
+- Additional insights and refinements
+- Practical examples from project work
