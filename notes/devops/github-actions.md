@@ -24,3 +24,7 @@ Notes and learnings about github actions in the context of devops development.
 ### Update (2023-07-17)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-09-06)
+- Additional insights and refinements
+- Practical examples from project work
