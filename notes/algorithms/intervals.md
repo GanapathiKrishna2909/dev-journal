@@ -20,3 +20,7 @@ Notes and learnings about intervals in the context of algorithms development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-09-13)
+- Additional insights and refinements
+- Practical examples from project work
