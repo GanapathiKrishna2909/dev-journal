@@ -28,3 +28,7 @@ Notes and learnings about food delivery in the context of system-design developm
 ### Update (2023-08-01)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-09-18)
+- Additional insights and refinements
+- Practical examples from project work
