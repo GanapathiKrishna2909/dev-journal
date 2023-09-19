@@ -24,3 +24,7 @@ Notes and learnings about leader election in the context of system-design develo
 ### Update (2023-07-21)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-09-19)
+- Additional insights and refinements
+- Practical examples from project work
