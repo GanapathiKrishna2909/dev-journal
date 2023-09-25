@@ -20,3 +20,7 @@ Notes and learnings about file storage in the context of system-design developme
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-09-25)
+- Additional insights and refinements
+- Practical examples from project work
