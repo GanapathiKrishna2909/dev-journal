@@ -20,3 +20,7 @@ Notes and learnings about idempotency in the context of microservices developmen
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-09-30)
+- Additional insights and refinements
+- Practical examples from project work
