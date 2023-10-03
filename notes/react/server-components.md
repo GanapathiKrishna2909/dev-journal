@@ -32,3 +32,7 @@ Notes and learnings about server components in the context of react development.
 ### Update (2023-06-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-10-03)
+- Additional insights and refinements
+- Practical examples from project work
