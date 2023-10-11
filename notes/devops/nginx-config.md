@@ -24,3 +24,7 @@ Notes and learnings about nginx config in the context of devops development.
 ### Update (2023-08-15)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-10-11)
+- Additional insights and refinements
+- Practical examples from project work
