@@ -32,3 +32,7 @@ Notes and learnings about greedy in the context of algorithms development.
 ### Update (2023-10-06)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-10-11)
+- Additional insights and refinements
+- Practical examples from project work
