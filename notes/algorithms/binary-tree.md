@@ -20,3 +20,7 @@ Notes and learnings about binary tree in the context of algorithms development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-10-13)
+- Additional insights and refinements
+- Practical examples from project work
