@@ -20,3 +20,7 @@ Notes and learnings about iterators in the context of java development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-10-19)
+- Additional insights and refinements
+- Practical examples from project work
