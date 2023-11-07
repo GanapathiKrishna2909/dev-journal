@@ -20,3 +20,7 @@ Notes and learnings about kubernetes manifests in the context of devops developm
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-11-07)
+- Additional insights and refinements
+- Practical examples from project work
