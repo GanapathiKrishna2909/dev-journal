@@ -20,3 +20,7 @@ Notes and learnings about testing in the context of spring-boot development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-11-09)
+- Additional insights and refinements
+- Practical examples from project work
