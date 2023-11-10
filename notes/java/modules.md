@@ -28,3 +28,7 @@ Notes and learnings about modules in the context of java development.
 ### Update (2023-09-13)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-11-10)
+- Additional insights and refinements
+- Practical examples from project work
