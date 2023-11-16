@@ -20,3 +20,7 @@ Notes and learnings about monitoring setup in the context of devops development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2023-11-16)
+- Additional insights and refinements
+- Practical examples from project work
