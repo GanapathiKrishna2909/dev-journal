@@ -24,3 +24,7 @@ Notes and learnings about chat system in the context of system-design developmen
 ### Update (2023-04-11)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-11-21)
+- Additional insights and refinements
+- Practical examples from project work
