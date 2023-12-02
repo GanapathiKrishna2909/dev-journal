@@ -28,3 +28,7 @@ Notes and learnings about kubernetes pods in the context of cloud development.
 ### Update (2023-09-25)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-12-02)
+- Additional insights and refinements
+- Practical examples from project work
