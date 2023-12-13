@@ -28,3 +28,7 @@ Notes and learnings about string templates in the context of java development.
 ### Update (2023-10-06)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-12-13)
+- Additional insights and refinements
+- Practical examples from project work
