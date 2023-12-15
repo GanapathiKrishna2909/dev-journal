@@ -24,3 +24,7 @@ Notes and learnings about custom hooks in the context of react development.
 ### Update (2023-07-25)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-12-15)
+- Additional insights and refinements
+- Practical examples from project work
