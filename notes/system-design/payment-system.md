@@ -24,3 +24,7 @@ Notes and learnings about payment system in the context of system-design develop
 ### Update (2023-04-27)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2023-12-22)
+- Additional insights and refinements
+- Practical examples from project work
