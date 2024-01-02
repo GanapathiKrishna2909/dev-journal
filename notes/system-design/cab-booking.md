@@ -20,3 +20,7 @@ Notes and learnings about cab booking in the context of system-design developmen
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-01-02)
+- Additional insights and refinements
+- Practical examples from project work
