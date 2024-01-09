@@ -20,3 +20,7 @@ Notes and learnings about sorting algorithms in the context of algorithms develo
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-01-09)
+- Additional insights and refinements
+- Practical examples from project work
