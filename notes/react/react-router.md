@@ -24,3 +24,7 @@ Notes and learnings about react router in the context of react development.
 ### Update (2023-08-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-01-13)
+- Additional insights and refinements
+- Practical examples from project work
