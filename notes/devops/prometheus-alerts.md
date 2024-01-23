@@ -20,3 +20,7 @@ Notes and learnings about prometheus alerts in the context of devops development
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-01-23)
+- Additional insights and refinements
+- Practical examples from project work
