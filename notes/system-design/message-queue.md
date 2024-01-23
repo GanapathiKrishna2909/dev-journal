@@ -20,3 +20,7 @@ Notes and learnings about message queue in the context of system-design developm
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-01-23)
+- Additional insights and refinements
+- Practical examples from project work
