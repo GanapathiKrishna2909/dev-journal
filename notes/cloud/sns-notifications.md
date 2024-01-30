@@ -32,3 +32,7 @@ Notes and learnings about sns notifications in the context of cloud development.
 ### Update (2023-10-01)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-01-30)
+- Additional insights and refinements
+- Practical examples from project work
