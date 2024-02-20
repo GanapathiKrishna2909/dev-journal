@@ -24,3 +24,7 @@ Notes and learnings about bean lifecycle in the context of spring-boot developme
 ### Update (2023-12-21)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-02-20)
+- Additional insights and refinements
+- Practical examples from project work
