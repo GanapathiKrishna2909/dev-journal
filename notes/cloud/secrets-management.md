@@ -40,3 +40,7 @@ Notes and learnings about secrets management in the context of cloud development
 ### Update (2023-10-24)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-02-27)
+- Additional insights and refinements
+- Practical examples from project work
