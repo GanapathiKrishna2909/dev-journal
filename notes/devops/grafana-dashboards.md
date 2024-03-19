@@ -20,3 +20,7 @@ Notes and learnings about grafana dashboards in the context of devops developmen
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-03-19)
+- Additional insights and refinements
+- Practical examples from project work
