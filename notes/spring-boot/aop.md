@@ -20,3 +20,7 @@ Notes and learnings about aop in the context of spring-boot development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-03-25)
+- Additional insights and refinements
+- Practical examples from project work
