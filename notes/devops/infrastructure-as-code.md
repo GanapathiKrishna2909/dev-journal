@@ -32,3 +32,7 @@ Notes and learnings about infrastructure as code in the context of devops develo
 ### Update (2024-03-11)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-03-26)
+- Additional insights and refinements
+- Practical examples from project work
