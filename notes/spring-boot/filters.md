@@ -24,3 +24,7 @@ Notes and learnings about filters in the context of spring-boot development.
 ### Update (2023-05-12)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-03-28)
+- Additional insights and refinements
+- Practical examples from project work
