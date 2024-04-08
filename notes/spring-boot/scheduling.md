@@ -24,3 +24,7 @@ Notes and learnings about scheduling in the context of spring-boot development.
 ### Update (2023-04-10)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-04-08)
+- Additional insights and refinements
+- Practical examples from project work
