@@ -24,3 +24,7 @@ Notes and learnings about load balancing in the context of microservices develop
 ### Update (2024-02-01)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-04-14)
+- Additional insights and refinements
+- Practical examples from project work
