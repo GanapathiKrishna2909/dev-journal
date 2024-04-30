@@ -36,3 +36,7 @@ Notes and learnings about consistent hashing in the context of system-design dev
 ### Update (2023-12-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-04-30)
+- Additional insights and refinements
+- Practical examples from project work
