@@ -28,3 +28,7 @@ Notes and learnings about iam policies in the context of cloud development.
 ### Update (2024-01-01)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-05-03)
+- Additional insights and refinements
+- Practical examples from project work
