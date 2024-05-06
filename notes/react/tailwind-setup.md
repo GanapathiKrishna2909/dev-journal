@@ -32,3 +32,7 @@ Notes and learnings about tailwind setup in the context of react development.
 ### Update (2023-11-28)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-05-06)
+- Additional insights and refinements
+- Practical examples from project work
