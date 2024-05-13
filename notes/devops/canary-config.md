@@ -28,3 +28,7 @@ Notes and learnings about canary config in the context of devops development.
 ### Update (2024-05-03)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-05-13)
+- Additional insights and refinements
+- Practical examples from project work
