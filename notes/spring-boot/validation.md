@@ -1,0 +1,22 @@
+# validation
+
+## Date: 2024-05-26
+
+### Overview
+Notes and learnings about validation in the context of spring-boot development.
+
+### Key Points
+- Understanding core concepts of validation
+- Practical application in real-world projects
+- Best practices and common patterns
+- Performance considerations
+
+### Code Example
+```
+// Example implementation for validation
+// TODO: Add detailed implementation
+```
+
+### References
+- Official documentation
+- Project experience notes
