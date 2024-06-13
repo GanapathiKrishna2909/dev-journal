@@ -24,3 +24,7 @@ Notes and learnings about records in the context of java development.
 ### Update (2024-03-20)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-06-13)
+- Additional insights and refinements
+- Practical examples from project work
