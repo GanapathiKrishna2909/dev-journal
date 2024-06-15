@@ -24,3 +24,7 @@ Notes and learnings about refs forwarding in the context of react development.
 ### Update (2024-06-03)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-06-15)
+- Additional insights and refinements
+- Practical examples from project work
