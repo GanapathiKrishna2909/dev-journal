@@ -36,3 +36,7 @@ Notes and learnings about linked list in the context of algorithms development.
 ### Update (2024-02-16)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-06-17)
+- Additional insights and refinements
+- Practical examples from project work
