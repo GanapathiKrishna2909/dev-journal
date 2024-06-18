@@ -20,3 +20,7 @@ Notes and learnings about helm values in the context of devops development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-06-18)
+- Additional insights and refinements
+- Practical examples from project work
