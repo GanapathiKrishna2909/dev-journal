@@ -40,3 +40,7 @@ Notes and learnings about topological sort in the context of algorithms developm
 ### Update (2024-04-14)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-06-18)
+- Additional insights and refinements
+- Practical examples from project work
