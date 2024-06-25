@@ -20,3 +20,7 @@ Notes and learnings about logging system in the context of system-design develop
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-06-25)
+- Additional insights and refinements
+- Practical examples from project work
