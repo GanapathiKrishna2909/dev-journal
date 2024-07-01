@@ -40,3 +40,7 @@ Notes and learnings about dockerfile best practices in the context of devops dev
 ### Update (2023-11-10)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-07-01)
+- Additional insights and refinements
+- Practical examples from project work
