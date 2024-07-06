@@ -32,3 +32,7 @@ Notes and learnings about rest controller in the context of spring-boot developm
 ### Update (2024-02-14)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-07-06)
+- Additional insights and refinements
+- Practical examples from project work
