@@ -20,3 +20,7 @@ Notes and learnings about e commerce in the context of system-design development
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-07-18)
+- Additional insights and refinements
+- Practical examples from project work
