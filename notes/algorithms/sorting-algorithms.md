@@ -28,3 +28,7 @@ Notes and learnings about sorting algorithms in the context of algorithms develo
 ### Update (2024-04-29)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-07-18)
+- Additional insights and refinements
+- Practical examples from project work
