@@ -20,3 +20,7 @@ Notes and learnings about config server in the context of microservices developm
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-07-23)
+- Additional insights and refinements
+- Practical examples from project work
