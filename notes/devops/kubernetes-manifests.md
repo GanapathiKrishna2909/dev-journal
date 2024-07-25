@@ -28,3 +28,7 @@ Notes and learnings about kubernetes manifests in the context of devops developm
 ### Update (2023-11-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-07-25)
+- Additional insights and refinements
+- Practical examples from project work
