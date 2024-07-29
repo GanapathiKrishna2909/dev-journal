@@ -20,3 +20,7 @@ Notes and learnings about generics in the context of java development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-07-29)
+- Additional insights and refinements
+- Practical examples from project work
