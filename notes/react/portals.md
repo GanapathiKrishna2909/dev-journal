@@ -20,3 +20,7 @@ Notes and learnings about portals in the context of react development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-08-12)
+- Additional insights and refinements
+- Practical examples from project work
