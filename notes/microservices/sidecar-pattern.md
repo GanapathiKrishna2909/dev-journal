@@ -24,3 +24,7 @@ Notes and learnings about sidecar pattern in the context of microservices develo
 ### Update (2024-03-21)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-08-13)
+- Additional insights and refinements
+- Practical examples from project work
