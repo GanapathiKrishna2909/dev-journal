@@ -20,3 +20,7 @@ Notes and learnings about rate limiting in the context of microservices developm
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-08-22)
+- Additional insights and refinements
+- Practical examples from project work
