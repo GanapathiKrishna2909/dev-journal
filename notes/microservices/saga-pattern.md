@@ -36,3 +36,7 @@ Notes and learnings about saga pattern in the context of microservices developme
 ### Update (2024-04-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-08-30)
+- Additional insights and refinements
+- Practical examples from project work
