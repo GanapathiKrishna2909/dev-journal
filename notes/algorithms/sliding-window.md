@@ -36,3 +36,7 @@ Notes and learnings about sliding window in the context of algorithms developmen
 ### Update (2023-12-13)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-09-03)
+- Additional insights and refinements
+- Practical examples from project work
