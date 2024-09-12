@@ -36,3 +36,7 @@ Notes and learnings about api gateway in the context of microservices developmen
 ### Update (2024-04-20)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-09-12)
+- Additional insights and refinements
+- Practical examples from project work
