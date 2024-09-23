@@ -24,3 +24,7 @@ Notes and learnings about terraform in the context of cloud development.
 ### Update (2024-08-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-09-23)
+- Additional insights and refinements
+- Practical examples from project work
