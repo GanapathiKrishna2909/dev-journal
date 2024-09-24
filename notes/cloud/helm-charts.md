@@ -32,3 +32,7 @@ Notes and learnings about helm charts in the context of cloud development.
 ### Update (2024-07-15)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-09-24)
+- Additional insights and refinements
+- Practical examples from project work
