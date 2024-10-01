@@ -32,3 +32,7 @@ Notes and learnings about logging system in the context of system-design develop
 ### Update (2024-09-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-10-01)
+- Additional insights and refinements
+- Practical examples from project work
