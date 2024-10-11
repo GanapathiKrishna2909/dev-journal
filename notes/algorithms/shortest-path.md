@@ -48,3 +48,7 @@ Notes and learnings about shortest path in the context of algorithms development
 ### Update (2024-09-09)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-10-11)
+- Additional insights and refinements
+- Practical examples from project work
