@@ -32,3 +32,7 @@ Notes and learnings about caching in the context of spring-boot development.
 ### Update (2024-08-16)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-10-25)
+- Additional insights and refinements
+- Practical examples from project work
