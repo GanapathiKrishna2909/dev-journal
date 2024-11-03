@@ -32,3 +32,7 @@ Notes and learnings about azure functions in the context of cloud development.
 ### Update (2023-11-21)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-11-03)
+- Additional insights and refinements
+- Practical examples from project work
