@@ -44,3 +44,7 @@ Notes and learnings about events in the context of spring-boot development.
 ### Update (2024-06-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-11-04)
+- Additional insights and refinements
+- Practical examples from project work
