@@ -24,3 +24,7 @@ Notes and learnings about message queue in the context of system-design developm
 ### Update (2024-01-23)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-11-15)
+- Additional insights and refinements
+- Practical examples from project work
