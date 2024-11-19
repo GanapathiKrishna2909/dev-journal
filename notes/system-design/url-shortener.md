@@ -24,3 +24,7 @@ Notes and learnings about url shortener in the context of system-design developm
 ### Update (2024-06-12)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-11-19)
+- Additional insights and refinements
+- Practical examples from project work
