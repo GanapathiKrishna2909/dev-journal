@@ -24,3 +24,7 @@ Notes and learnings about concurrency in the context of java development.
 ### Update (2024-09-19)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-11-25)
+- Additional insights and refinements
+- Practical examples from project work
