@@ -40,3 +40,7 @@ Notes and learnings about sealed classes in the context of java development.
 ### Update (2024-09-18)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-11-26)
+- Additional insights and refinements
+- Practical examples from project work
