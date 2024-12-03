@@ -28,3 +28,7 @@ Notes and learnings about aop in the context of spring-boot development.
 ### Update (2024-07-19)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-12-03)
+- Additional insights and refinements
+- Practical examples from project work
