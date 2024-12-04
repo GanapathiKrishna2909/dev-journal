@@ -24,3 +24,7 @@ Notes and learnings about interceptors in the context of spring-boot development
 ### Update (2023-11-17)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-12-04)
+- Additional insights and refinements
+- Practical examples from project work
