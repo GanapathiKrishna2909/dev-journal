@@ -44,3 +44,7 @@ Notes and learnings about social feed in the context of system-design developmen
 ### Update (2024-05-20)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-12-04)
+- Additional insights and refinements
+- Practical examples from project work
