@@ -28,3 +28,7 @@ Notes and learnings about performance tips in the context of react development.
 ### Update (2024-12-11)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-12-12)
+- Additional insights and refinements
+- Practical examples from project work
