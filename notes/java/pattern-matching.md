@@ -24,3 +24,7 @@ Notes and learnings about pattern matching in the context of java development.
 ### Update (2023-11-16)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-12-18)
+- Additional insights and refinements
+- Practical examples from project work
