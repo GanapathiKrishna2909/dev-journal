@@ -28,3 +28,7 @@ Notes and learnings about e commerce in the context of system-design development
 ### Update (2024-12-16)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2024-12-18)
+- Additional insights and refinements
+- Practical examples from project work
