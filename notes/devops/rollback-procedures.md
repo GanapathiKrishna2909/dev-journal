@@ -20,3 +20,7 @@ Notes and learnings about rollback procedures in the context of devops developme
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2024-12-26)
+- Additional insights and refinements
+- Practical examples from project work
