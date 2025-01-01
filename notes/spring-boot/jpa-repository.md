@@ -28,3 +28,7 @@ Notes and learnings about jpa repository in the context of spring-boot developme
 ### Update (2024-10-22)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-01-01)
+- Additional insights and refinements
+- Practical examples from project work
