@@ -36,3 +36,7 @@ Notes and learnings about docker compose in the context of cloud development.
 ### Update (2024-10-31)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-01-03)
+- Additional insights and refinements
+- Practical examples from project work
