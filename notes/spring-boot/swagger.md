@@ -36,3 +36,7 @@ Notes and learnings about swagger in the context of spring-boot development.
 ### Update (2024-12-20)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-01-05)
+- Additional insights and refinements
+- Practical examples from project work
