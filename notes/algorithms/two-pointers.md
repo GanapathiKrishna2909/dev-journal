@@ -40,3 +40,7 @@ Notes and learnings about two pointers in the context of algorithms development.
 ### Update (2024-03-15)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-01-20)
+- Additional insights and refinements
+- Practical examples from project work
