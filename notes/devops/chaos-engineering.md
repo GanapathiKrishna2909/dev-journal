@@ -36,3 +36,7 @@ Notes and learnings about chaos engineering in the context of devops development
 ### Update (2024-08-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-01-22)
+- Additional insights and refinements
+- Practical examples from project work
