@@ -20,3 +20,7 @@ Notes and learnings about security in the context of spring-boot development.
 ### References
 - Official documentation
 - Project experience notes
+
+### Update (2025-01-25)
+- Additional insights and refinements
+- Practical examples from project work
