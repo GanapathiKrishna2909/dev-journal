@@ -36,3 +36,7 @@ Notes and learnings about log rotation in the context of devops development.
 ### Update (2024-11-24)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-01-29)
+- Additional insights and refinements
+- Practical examples from project work
