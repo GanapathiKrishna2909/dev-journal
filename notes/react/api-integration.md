@@ -28,3 +28,7 @@ Notes and learnings about api integration in the context of react development.
 ### Update (2025-02-10)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-03-21)
+- Additional insights and refinements
+- Practical examples from project work
