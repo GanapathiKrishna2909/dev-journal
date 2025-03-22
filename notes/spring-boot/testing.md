@@ -44,3 +44,7 @@ Notes and learnings about testing in the context of spring-boot development.
 ### Update (2024-12-19)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-03-22)
+- Additional insights and refinements
+- Practical examples from project work
