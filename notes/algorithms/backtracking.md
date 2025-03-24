@@ -32,3 +32,7 @@ Notes and learnings about backtracking in the context of algorithms development.
 ### Update (2025-01-01)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-03-24)
+- Additional insights and refinements
+- Practical examples from project work
