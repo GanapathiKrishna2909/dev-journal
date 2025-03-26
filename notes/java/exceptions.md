@@ -52,3 +52,7 @@ Notes and learnings about exceptions in the context of java development.
 ### Update (2025-03-17)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-03-26)
+- Additional insights and refinements
+- Practical examples from project work
