@@ -44,3 +44,7 @@ Notes and learnings about log aggregation in the context of cloud development.
 ### Update (2024-12-08)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-03-30)
+- Additional insights and refinements
+- Practical examples from project work
