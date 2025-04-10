@@ -40,3 +40,7 @@ Notes and learnings about retry pattern in the context of microservices developm
 ### Update (2025-03-10)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-04-10)
+- Additional insights and refinements
+- Practical examples from project work
