@@ -40,3 +40,7 @@ Notes and learnings about redux toolkit in the context of react development.
 ### Update (2025-01-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-04-10)
+- Additional insights and refinements
+- Practical examples from project work
