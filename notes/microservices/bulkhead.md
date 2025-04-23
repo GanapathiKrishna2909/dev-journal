@@ -28,3 +28,7 @@ Notes and learnings about bulkhead in the context of microservices development.
 ### Update (2023-09-18)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-04-23)
+- Additional insights and refinements
+- Practical examples from project work
