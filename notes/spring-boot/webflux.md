@@ -36,3 +36,7 @@ Notes and learnings about webflux in the context of spring-boot development.
 ### Update (2024-11-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-04-28)
+- Additional insights and refinements
+- Practical examples from project work
