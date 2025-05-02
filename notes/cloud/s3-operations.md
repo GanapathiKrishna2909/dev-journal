@@ -56,3 +56,7 @@ Notes and learnings about s3 operations in the context of cloud development.
 ### Update (2025-03-20)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-02)
+- Additional insights and refinements
+- Practical examples from project work
