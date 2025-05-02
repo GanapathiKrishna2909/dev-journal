@@ -28,3 +28,7 @@ Notes and learnings about ecs fargate in the context of cloud development.
 ### Update (2024-12-13)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-02)
+- Additional insights and refinements
+- Practical examples from project work
