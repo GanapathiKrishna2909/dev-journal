@@ -36,3 +36,7 @@ Notes and learnings about backup strategy in the context of devops development.
 ### Update (2025-04-28)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-17)
+- Additional insights and refinements
+- Practical examples from project work
