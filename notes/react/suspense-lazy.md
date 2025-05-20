@@ -48,3 +48,7 @@ Notes and learnings about suspense lazy in the context of react development.
 ### Update (2025-04-01)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-20)
+- Additional insights and refinements
+- Practical examples from project work
