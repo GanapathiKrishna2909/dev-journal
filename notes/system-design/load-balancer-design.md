@@ -48,3 +48,7 @@ Notes and learnings about load balancer design in the context of system-design d
 ### Update (2025-03-12)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-23)
+- Additional insights and refinements
+- Practical examples from project work
