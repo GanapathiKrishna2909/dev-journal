@@ -36,3 +36,7 @@ Notes and learnings about context api in the context of react development.
 ### Update (2025-04-08)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-26)
+- Additional insights and refinements
+- Practical examples from project work
