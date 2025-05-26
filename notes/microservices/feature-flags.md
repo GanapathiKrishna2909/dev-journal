@@ -48,3 +48,7 @@ Notes and learnings about feature flags in the context of microservices developm
 ### Update (2025-05-02)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-26)
+- Additional insights and refinements
+- Practical examples from project work
