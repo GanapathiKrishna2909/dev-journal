@@ -60,3 +60,7 @@ Notes and learnings about cache design in the context of system-design developme
 ### Update (2025-04-24)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-27)
+- Additional insights and refinements
+- Practical examples from project work
