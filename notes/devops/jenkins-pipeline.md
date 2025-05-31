@@ -68,3 +68,7 @@ Notes and learnings about jenkins pipeline in the context of devops development.
 ### Update (2025-02-03)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-05-31)
+- Additional insights and refinements
+- Practical examples from project work
