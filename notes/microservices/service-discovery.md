@@ -44,3 +44,7 @@ Notes and learnings about service discovery in the context of microservices deve
 ### Update (2025-05-16)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-06-10)
+- Additional insights and refinements
+- Practical examples from project work
