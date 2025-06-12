@@ -40,3 +40,7 @@ Notes and learnings about monitoring setup in the context of devops development.
 ### Update (2025-03-24)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-06-12)
+- Additional insights and refinements
+- Practical examples from project work
