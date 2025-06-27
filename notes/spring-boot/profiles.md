@@ -40,3 +40,7 @@ Notes and learnings about profiles in the context of spring-boot development.
 ### Update (2024-11-15)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-06-27)
+- Additional insights and refinements
+- Practical examples from project work
