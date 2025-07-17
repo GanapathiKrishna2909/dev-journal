@@ -24,3 +24,7 @@ Notes and learnings about dependency injection in the context of spring-boot dev
 ### Update (2024-05-29)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-07-17)
+- Additional insights and refinements
+- Practical examples from project work
