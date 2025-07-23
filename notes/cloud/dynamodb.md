@@ -36,3 +36,7 @@ Notes and learnings about dynamodb in the context of cloud development.
 ### Update (2024-09-15)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-07-23)
+- Additional insights and refinements
+- Practical examples from project work
