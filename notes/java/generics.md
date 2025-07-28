@@ -36,3 +36,7 @@ Notes and learnings about generics in the context of java development.
 ### Update (2024-11-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-07-28)
+- Additional insights and refinements
+- Practical examples from project work
