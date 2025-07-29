@@ -32,3 +32,7 @@ Notes and learnings about hooks useeffect in the context of react development.
 ### Update (2024-07-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-07-29)
+- Additional insights and refinements
+- Practical examples from project work
