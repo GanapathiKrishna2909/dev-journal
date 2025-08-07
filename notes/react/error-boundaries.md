@@ -48,3 +48,7 @@ Notes and learnings about error boundaries in the context of react development.
 ### Update (2025-02-04)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-08-07)
+- Additional insights and refinements
+- Practical examples from project work
