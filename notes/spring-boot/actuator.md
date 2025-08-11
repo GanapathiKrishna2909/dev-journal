@@ -48,3 +48,7 @@ Notes and learnings about actuator in the context of spring-boot development.
 ### Update (2025-07-04)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-08-11)
+- Additional insights and refinements
+- Practical examples from project work
