@@ -24,3 +24,7 @@ Notes and learnings about cloudformation in the context of cloud development.
 ### Update (2024-12-21)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-08-15)
+- Additional insights and refinements
+- Practical examples from project work
