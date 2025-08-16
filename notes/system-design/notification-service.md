@@ -72,3 +72,7 @@ Notes and learnings about notification service in the context of system-design d
 ### Update (2025-08-01)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-08-16)
+- Additional insights and refinements
+- Practical examples from project work
