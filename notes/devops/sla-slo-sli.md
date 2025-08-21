@@ -40,3 +40,7 @@ Notes and learnings about sla slo sli in the context of devops development.
 ### Update (2024-10-02)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-08-21)
+- Additional insights and refinements
+- Practical examples from project work
