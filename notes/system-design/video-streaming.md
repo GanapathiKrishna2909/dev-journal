@@ -24,3 +24,7 @@ Notes and learnings about video streaming in the context of system-design develo
 ### Update (2023-07-21)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-08-21)
+- Additional insights and refinements
+- Practical examples from project work
