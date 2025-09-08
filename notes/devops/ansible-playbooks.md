@@ -32,3 +32,7 @@ Notes and learnings about ansible playbooks in the context of devops development
 ### Update (2024-06-03)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-09-08)
+- Additional insights and refinements
+- Practical examples from project work
