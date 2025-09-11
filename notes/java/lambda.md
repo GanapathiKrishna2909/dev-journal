@@ -36,3 +36,7 @@ Notes and learnings about lambda in the context of java development.
 ### Update (2024-10-20)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-09-11)
+- Additional insights and refinements
+- Practical examples from project work
