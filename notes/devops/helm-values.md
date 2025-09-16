@@ -32,3 +32,7 @@ Notes and learnings about helm values in the context of devops development.
 ### Update (2025-06-23)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-09-16)
+- Additional insights and refinements
+- Practical examples from project work
