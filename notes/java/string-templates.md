@@ -56,3 +56,7 @@ Notes and learnings about string templates in the context of java development.
 ### Update (2025-05-09)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-09-18)
+- Additional insights and refinements
+- Practical examples from project work
