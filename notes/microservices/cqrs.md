@@ -40,3 +40,7 @@ Notes and learnings about cqrs in the context of microservices development.
 ### Update (2025-09-19)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-09-24)
+- Additional insights and refinements
+- Practical examples from project work
