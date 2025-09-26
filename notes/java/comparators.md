@@ -40,3 +40,7 @@ Notes and learnings about comparators in the context of java development.
 ### Update (2025-04-03)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-09-26)
+- Additional insights and refinements
+- Practical examples from project work
