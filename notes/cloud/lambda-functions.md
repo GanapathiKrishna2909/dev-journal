@@ -28,3 +28,7 @@ Notes and learnings about lambda functions in the context of cloud development.
 ### Update (2024-10-14)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-10-10)
+- Additional insights and refinements
+- Practical examples from project work
