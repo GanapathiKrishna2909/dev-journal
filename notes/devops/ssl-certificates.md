@@ -28,3 +28,7 @@ Notes and learnings about ssl certificates in the context of devops development.
 ### Update (2025-10-07)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-10-21)
+- Additional insights and refinements
+- Practical examples from project work
