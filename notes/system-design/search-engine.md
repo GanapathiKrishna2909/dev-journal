@@ -44,3 +44,7 @@ Notes and learnings about search engine in the context of system-design developm
 ### Update (2025-09-16)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-10-21)
+- Additional insights and refinements
+- Practical examples from project work
