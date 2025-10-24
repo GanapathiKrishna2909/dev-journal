@@ -24,3 +24,7 @@ Notes and learnings about contract testing in the context of microservices devel
 ### Update (2024-05-19)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-10-24)
+- Additional insights and refinements
+- Practical examples from project work
