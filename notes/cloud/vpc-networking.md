@@ -48,3 +48,7 @@ Notes and learnings about vpc networking in the context of cloud development.
 ### Update (2025-10-28)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-11-04)
+- Additional insights and refinements
+- Practical examples from project work
