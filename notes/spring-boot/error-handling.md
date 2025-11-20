@@ -28,3 +28,7 @@ Notes and learnings about error handling in the context of spring-boot developme
 ### Update (2025-08-11)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-11-20)
+- Additional insights and refinements
+- Practical examples from project work
