@@ -40,3 +40,7 @@ Notes and learnings about configuration in the context of spring-boot developmen
 ### Update (2025-09-11)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-11-22)
+- Additional insights and refinements
+- Practical examples from project work
