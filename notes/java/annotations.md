@@ -40,3 +40,7 @@ Notes and learnings about annotations in the context of java development.
 ### Update (2025-11-26)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-02)
+- Additional insights and refinements
+- Practical examples from project work
