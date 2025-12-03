@@ -36,3 +36,7 @@ Notes and learnings about collections in the context of java development.
 ### Update (2025-11-20)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-03)
+- Additional insights and refinements
+- Practical examples from project work
