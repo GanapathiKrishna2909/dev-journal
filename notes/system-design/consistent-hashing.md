@@ -60,3 +60,7 @@ Notes and learnings about consistent hashing in the context of system-design dev
 ### Update (2025-12-04)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-10)
+- Additional insights and refinements
+- Practical examples from project work
