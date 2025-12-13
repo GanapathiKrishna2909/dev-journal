@@ -72,3 +72,7 @@ Notes and learnings about switch expressions in the context of java development.
 ### Update (2025-12-08)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-13)
+- Additional insights and refinements
+- Practical examples from project work
