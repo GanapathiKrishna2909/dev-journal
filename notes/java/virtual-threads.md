@@ -48,3 +48,7 @@ Notes and learnings about virtual threads in the context of java development.
 ### Update (2025-11-02)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-23)
+- Additional insights and refinements
+- Practical examples from project work
