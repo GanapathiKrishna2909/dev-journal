@@ -56,3 +56,7 @@ Notes and learnings about database sharding in the context of system-design deve
 ### Update (2025-12-12)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-23)
+- Additional insights and refinements
+- Practical examples from project work
