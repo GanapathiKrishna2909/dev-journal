@@ -40,3 +40,7 @@ Notes and learnings about heap priority queue in the context of algorithms devel
 ### Update (2025-08-23)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-26)
+- Additional insights and refinements
+- Practical examples from project work
