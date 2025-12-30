@@ -36,3 +36,7 @@ Notes and learnings about service mesh in the context of microservices developme
 ### Update (2025-08-17)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2025-12-30)
+- Additional insights and refinements
+- Practical examples from project work
