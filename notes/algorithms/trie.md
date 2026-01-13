@@ -40,3 +40,7 @@ Notes and learnings about trie in the context of algorithms development.
 ### Update (2025-03-10)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2026-01-13)
+- Additional insights and refinements
+- Practical examples from project work
