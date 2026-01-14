@@ -72,3 +72,7 @@ Notes and learnings about monitoring grafana in the context of cloud development
 ### Update (2025-11-22)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2026-01-14)
+- Additional insights and refinements
+- Practical examples from project work
