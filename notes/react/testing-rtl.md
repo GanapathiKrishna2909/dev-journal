@@ -76,3 +76,7 @@ Notes and learnings about testing rtl in the context of react development.
 ### Update (2025-12-10)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2026-01-27)
+- Additional insights and refinements
+- Practical examples from project work
