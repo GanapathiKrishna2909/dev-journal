@@ -36,3 +36,7 @@ Notes and learnings about cicd pipeline in the context of cloud development.
 ### Update (2025-05-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2026-02-05)
+- Additional insights and refinements
+- Practical examples from project work
