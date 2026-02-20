@@ -40,3 +40,7 @@ Notes and learnings about distributed lock in the context of system-design devel
 ### Update (2025-12-30)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2026-02-20)
+- Additional insights and refinements
+- Practical examples from project work
