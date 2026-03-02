@@ -76,3 +76,7 @@ Notes and learnings about event sourcing in the context of microservices develop
 ### Update (2026-01-18)
 - Additional insights and refinements
 - Practical examples from project work
+
+### Update (2026-03-02)
+- Additional insights and refinements
+- Practical examples from project work
